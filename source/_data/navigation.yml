@@ -20,13 +20,15 @@ foo:
 
 # main links
 main:
-  - title: "Project description"
+  - title: "Projects"
+    url: /docs/intro/
+  - title: "Teaching"
     url: /docs/intro/
   - title: "Publications"
     url: /publications/
   - title: "Posts"  
     url: /year-archive/
-  - title: "About"
+  - title: "Contact"
     url: /about/
 
 

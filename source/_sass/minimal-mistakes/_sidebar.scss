@@ -127,7 +127,7 @@
   }
 
   img {
-    max-width: 110px;
+    max-width: 210px;
     border-radius: 50%;
 
     @include breakpoint($large) {
@@ -148,7 +148,7 @@
     display: block;
     width: 100%;
     padding-left: 0;
-    padding-right: 0;
+    padding-right: 70;
   }
 
   a {
@@ -172,6 +172,8 @@
 
 .author__bio {
   margin: 0;
+  text-align: left;
+
 
   @include breakpoint($large) {
     margin-top: 10px;

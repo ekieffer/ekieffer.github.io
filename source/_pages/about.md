@@ -3,7 +3,7 @@
 classes: wide
 toc: false
 entries_layout: grid
-permalink: /about/
+permalink: /
 title: "About us"
 feature_row:
   - image_path: /assets/images/pascal.jpeg
@@ -29,6 +29,8 @@ feature_row:
     btn_label: "Learn more"      
 last_modified_at: 2020-10-28T10:15:20-04:00
 toc: false
+author_profile: true
+author: Emmanuel Kieffer
 ---
 
 {% include feature_row %}

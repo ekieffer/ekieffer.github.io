@@ -1,37 +1,30 @@
 ---
-layout: splash
+
+classes: wide
+toc: false
+entries_layout: grid
 permalink: /
-hidden: true
-header:
-  overlay_color: "#5e616c"
-  overlay_image: "/assets/images/banner.jpg"
-excerpt: >
-  A Sustainable and Trustworthy AI Recommitment System (STAIRS). <br />
-feature_row:
-  - image_path: /assets/images/EIB_logo2.jpg
-    alt: "STAREBEI"
-    title: "STAREBEI projects"
-    excerpt: "Everything about STAREBEI."
-    url: "https://institute.eib.org/whatwedo/knowledge/starebei/"
-    btn_class: "btn--primary"
-    btn_label: "Learn more"
-  - image_path: /assets/images/mm-responsive-feature.png
-    alt: "fully responsive"
-    title: "Responsive layouts"
-    excerpt: "Built with HTML5 + CSS3. All layouts are fully responsive with helpers to augment your content."
-    url: "/docs/layouts/"
-    btn_class: "btn--primary"
-    btn_label: "Learn more"
-  - image_path: /assets/images/mm-free-feature.png
-    alt: "100% free"
-    title: "100% free"
-    excerpt: "Free to use however you want under the MIT License. Clone it, fork it, customize it... whatever!"
-    url: "/docs/license/"
-    btn_class: "btn--primary"
-    btn_label: "Learn more"      
+title: "Welcome to my personal webpage"
+author_profile: true
+author: Emmanuel Kieffer
 ---
 
-{% include feature_row %}
+I am currently research scientist at the University of Luxembourg. I completed my PhD (oustanding) titled “Co-evolutionary Hybrid Bi-level Optimization” at the University of Luxembourg in the Parallel Computing & Optimization Group. My PhD researches were dedicated to the design and resolution of bi-level optimization problems.
+Prior to that he completed a Master’s in Computer Science with first class honors at the University of Lorraine.
+{: style="text-align: justify;"}
 
 
+I also received my :
+
+* Master Degree in “Informatique et Décision” (Decision-Support Computing) in 2014
+
+* Bachelor Degree in “Informatique” (Computer Science) in 2012
+
+* Technology University degree in “Statistique et Informatique Décisionnelle” (Business-Intelligence) in 2011
+
+In 2016, I obtained the certificate “Smart ICT for Business Innovation” from the University of Luxembourg.
+
+My primary research interests include mathematical optimization, evolutionary computing and data-mining.
+
+---
 

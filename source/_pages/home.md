@@ -1,5 +1,5 @@
 ---
-
+layout: home
 classes: wide
 toc: false
 entries_layout: grid

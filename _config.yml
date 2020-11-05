@@ -19,7 +19,7 @@ subtitle                 : ""
 name                     : &name "" # &name is a YAML anchor which can be *referenced later
 description              : &description ""
 url                      : "https://ekieffer.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "/webpage" # the subpath of your site, e.g. "/blog"
+baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "ekieffer/ekieffer.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : "/assets/images/ulhpc_logo.png" # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"

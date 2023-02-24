@@ -23,7 +23,7 @@ feature_row:
     url: "http://www.cs.put.poznan.pl/ishop/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
-  - image_path: /assets/images/ishop.png
+  - image_path: /assets/images/adhoc.png
     alt: "ADHOC"
     title: "ADHOC project"
     excerpt: "High Performance Decomposition Algorithms for Combinatorial Optimization and Machine Learning <br/> <br/> "

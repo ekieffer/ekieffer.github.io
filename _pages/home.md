@@ -26,5 +26,28 @@ In 2016, I obtained the certificate “Smart ICT for Business Innovation” from
 
 My primary research interests include mathematical optimization, evolutionary computing and data-mining.
 
+<u>Current research projects</u>:
+
+* [2023 - 2027] - High Performance Decomposition Algorithms for Combinatorial Optimization and Machine Learning (ADHOC), funded by ANR and FNR -- main co-author
+* [2021 - 2022] - Toward A.I. Recommitment Strategies for ESG integration in Private Equity, funded by the European Investment Bank (EIB) -- principal researcher
+
+<u>Teaching</u>:
+
+* [2015 -         ]  - Intelligent Systems - Problem Solving
+* [2015 - 2018]  - Algorithms 3
+
+
+<u>PhD student advisor</u>:
+
+* [2022 -        ] - Tobias Fischbach, Using non-equilibrium thermodynamics to optimize the energy demand of computation (NETCOM) funded by the Institute of Advanced Studies (IAS)
+
+
+<u>Master student advisor</u>:
+
+* 2022 - Victor Sanchez-Gimenez Hybrid, University of Luxembourg - Quantum-Classical Branch and Price Method for Large Scale Optimization Problems
+* 2021 - Yann Cauchepin, Polytech Lille - Deep Reinforcement Learning for Combinatorial Optimization
+
+
+
 ---
 

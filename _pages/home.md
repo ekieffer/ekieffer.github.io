@@ -16,8 +16,6 @@ Prior to that I completed a Master’s in Computer Science with first class hono
 
 I also received my :
 
-* Master Degree in “Informatique et Décision” (Decision-Support Computing) in 2014
-
 * Bachelor Degree in “Informatique” (Computer Science) in 2012
 
 * Technology University degree in “Statistique et Informatique Décisionnelle” (Business-Intelligence) in 2011

@@ -27,7 +27,7 @@ feature_row:
     alt: "ADHOC"
     title: "ADHOC project"
     excerpt: "High Performance Decomposition Algorithms for Combinatorial Optimization and Machine Learning <br/> <br/> "
-    url: ""
+    url: "https://pcog.uni.lu/adhoc/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
 author_profile: true

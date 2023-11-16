@@ -2,12 +2,12 @@
 
 Emmanuel Kieffer:
   name        : "Emmanuel Kieffer"
-  bio         : "Research Scientist at the University of Luxembourg"
+  bio         : "Research Scientist"
   avatar      : "/assets/images/manu.jpeg"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:emmanuel.kieffer@uni.lu"
-    - label: "UL Webpage"
-      icon: "fas fa-fw fa-link"
-      url: "https://wwwfr.uni.lu/recherche/fstm/dcs/members/emmanuel_kieffer"
+    - label: "LinkedIn profile"
+      icon: "fab fa-linkedin"
+      url: "https://www.linkedin.com/in/emmanuel-kieffer"

@@ -9,8 +9,12 @@ author_profile: true
 author: Emmanuel Kieffer
 ---
 
-I am currently research scientist at the University of Luxembourg. I completed my PhD (oustanding) titled “Co-evolutionary Hybrid Bi-level Optimization” at the University of Luxembourg in the Parallel Computing & Optimization Group. My PhD researches were dedicated to the design and resolution of bi-level optimization problems.
-Prior to that I completed a Master’s in Computer Science with first class honors at the University of Lorraine.
+I’m a passionate research scientist who loves modelling and solving real life problems.
+My journey started with a Master in “Optimization and Algorithm (OPAL)” in which I explored Machine learning and Optimization with a big preference towards large-scale decomposition algorithms for problems that cannot be solved with a single machine.
+In 2015, I embarked on my first research experience and completed my PhD in Computer Science with outstanding results. At that time, my research was dedicated to Bi-level Optimization Problems (e.g., pricing problems, planning problems, defense/interdiction problems, structural design Problems, etc.)
+In 2019, I had the chance to see the other especially important aspect of solving large-scale problems: High-Performance Computing. Another fascinating discipline at the intersection of optimization and data science :)
+
+Don't hesitate to contact me, I'm always looking forward to taking on new challenges.
 {: style="text-align: justify;"}
 
 

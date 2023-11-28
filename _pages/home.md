@@ -18,6 +18,8 @@ I am passionate about finding innovative and efficient solutions for challenging
 I received a :
 
 
+* PhD in Computer Science (Optimization & Algorithms)
+
 * Master in Computer Science (Optimization & Algorithms)
 
 * Bachelor Degree in Computer Science

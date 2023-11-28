@@ -9,17 +9,18 @@ author_profile: true
 author: Emmanuel Kieffer
 ---
 
-I’m a passionate research scientist who loves modelling and solving real life problems.
-My journey started with a Master in “Optimization and Algorithm (OPAL)” in which I explored Machine learning and Optimization with a big preference towards large-scale decomposition algorithms for problems that cannot be solved with a single machine.
-In 2015, I embarked on my first research experience and completed my PhD in Computer Science with outstanding results. At that time, my research was dedicated to Bi-level Optimization Problems (e.g., pricing problems, planning problems, defense/interdiction problems, structural design Problems, etc.)
-In 2019, I had the chance to see the other especially important aspect of solving large-scale problems: High-Performance Computing. Another fascinating discipline at the intersection of optimization and data science :)
-Don't hesitate to contact me, I'm always looking forward to taking on new challenges.
+
+As a researcher and data scientist, I apply my expertise in optimization and machine learning to model and solve real-life problems. I have over 6 years of experience in conducting cutting-edge research in computer science, with a focus on Mathematical Optimization and Machine Learning problems.
+I am passionate about finding innovative and efficient solutions for challenging and impactful problems, such as strategic allocation for private equity investors, heuristic design for combinatorial optimization, and deep symbolic regression for heuristic learning. I have published multiple papers in prestigious journals and conferences, and I collaborate with researchers and practitioners from different domains and disciplines. I am always eager to learn new skills and take on new challenges.
 {: style="text-align: justify;"}
 
 
-I also received my :
+I received a :
 
-* Bachelor Degree in “Informatique” (Computer Science) in 2012
+
+* Master in Computer Science (Optimization & Algorithms)
+
+* Bachelor Degree in Computer Science
 
 * Technology University degree in “Statistique et Informatique Décisionnelle” (Business-Intelligence) in 2011
 

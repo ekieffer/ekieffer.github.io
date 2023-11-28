@@ -10,7 +10,7 @@ author: Emmanuel Kieffer
 ---
 
 
-As a researcher and data scientist, I apply my expertise in optimization and machine learning to model and solve real-life problems. I have over 6 years of experience in conducting cutting-edge research in computer science, with a focus on Mathematical Optimization and Machine Learning problems.
+As a researcher and data scientist, I apply my expertise in Mathematical Optimization and Machine Learning to model and solve real-life problems. I have over 6 years of experience in conducting cutting-edge research in computer science, with a focus on Mathematical Optimization and Machine Learning problems.
 I am passionate about finding innovative and efficient solutions for challenging and impactful problems, such as strategic allocation for private equity investors, heuristic design for combinatorial optimization, and deep symbolic regression for heuristic learning. I have published multiple papers in prestigious journals and conferences, and I collaborate with researchers and practitioners from different domains and disciplines. I am always eager to learn new skills and take on new challenges.
 {: style="text-align: justify;"}
 
